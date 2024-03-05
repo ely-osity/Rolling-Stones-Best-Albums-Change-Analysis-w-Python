@@ -1,0 +1,501 @@
+#,Year,Title,Artist,Type,Rating,Releases
+1,1971,What’s Going On,Marvin Gaye,Album,4.65,42
+2,1966,Pet Sounds,The Beach Boys,Album,4.4,51
+3,1971,Blue,Joni Mitchell,Album,4.25,21
+4,1976,Songs in the Key of Life,Stevie Wonder,Album,4.55,28
+5,1969,Abbey Road,The Beatles,Album,4.65,57
+6,1991,Nevermind,Nirvana,Album,4.45,87
+7,1977,Rumours,Fleetwood Mac,Album,4.45,66
+8,1984,Purple Rain,Prince and The Revolution,Album + Soundtrack,4.25,38
+9,1975,Blood on the Tracks,Bob Dylan,Album,4.25,27
+10,1998,The Miseducation of Lauryn Hill,Lauryn Hill,Album,4.15,16
+11,1966,Revolver,The Beatles,Album,4.6,51
+12,1982,Thriller,Michael Jackson,Album,4.5,70
+13,1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Album,3.8,17
+14,1972,Exile on Main St.,The Rolling Stones,Album,4.45,51
+15,1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Album,3.6,24
+16,1979,London Calling,The Clash,Album,4.2,41
+17,2010,My Beautiful Dark Twisted Fantasy,Kanye West,Album,4.2,16
+18,1965,Highway 61 Revisited,Bob Dylan,Album,4.25,32
+19,2015,To Pimp a Butterfly,Kendrick Lamar,Album,4.6,10
+20,2000,Kid A,Radiohead,Album,4.45,29
+21,1975,Born to Run,Bruce Springsteen,Album,4.1,65
+22,1994,Ready to Die,The Notorious B.I.G.,Album,4.25,12
+23,1967,The Velvet Underground & Nico,The Velvet Underground & Nico,Album,4.7,38
+24,1967,Sgt. Pepper’s Lonely Hearts Club Band,The Beatles,Album,4.55,64
+25,1971,Tapestry,Carole King,Album,4.0,39
+26,1975,Horses,Patti Smith,Album,4.15,24
+27,1993,Enter the Wu‐Tang (36 Chambers),Wu‐Tang Clan,Album,4.7,18
+28,2000,Voodoo,D’Angelo,Album,4.5,9
+29,1968,The Beatles (The White Album),The Beatles,Album,4.35,53
+30,1967,Are You Experienced,The Jimi Hendrix Experience,Album,4.2,45
+31,1959,Kind of Blue,Miles Davis,Album,4.55,112
+32,2016,Lemonade,Beyoncé,Album,4.1,20
+33,2006,Back to Black,Amy Winehouse,Album,4.2,38
+34,1973,Innervisions,Stevie Wonder,Album,5.0,33
+35,1965,Rubber Soul,The Beatles,Album,4.45,79
+36,1979,Off the Wall,Michael Jackson,Album,4.35,39
+37,1992,The Chronic,Dr. Dre,Album,4.05,28
+38,1966,Blonde on Blonde,Bob Dylan,Album,4.25,47
+39,1980,Remain in Light,Talking Heads,Album,4.3,27
+40,1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Album,4.55,55
+41,1969,Let It Bleed,The Rolling Stones,Album,4.5,34
+42,1997,OK Computer,Radiohead,Album,4.5,38
+43,1991,The Low End Theory,A Tribe Called Quest,Album,3.8,17
+44,1994,Illmatic,Nas,Album,4.15,20
+45,1987,Sign “☮︎” the Times,Prince,Album,4.15,17
+46,1986,Graceland,Paul Simon,Album,4.6,43
+47,1976,Ramones,Ramones,Album,4.05,21
+48,1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Album + Compilation,4.1,61
+49,1998,Aquemini,OutKast,Album,4.15,15
+50,2001,The Blueprint,Jay‐Z,Album,3.5,5
+51,1982,The Great Twenty‐Eight,Chuck Berry,Album + Compilation,,4
+52,1976,Station to Station,David Bowie,Album,4.15,25
+53,1968,Electric Ladyland,The Jimi Hendrix Experience,Album,4.0,49
+54,1991,Star Time,James Brown,Album + Compilation,5.0,3
+55,1973,The Dark Side of the Moon,Pink Floyd,Album,4.75,109
+56,1993,Exile in Guyville,Liz Phair,Album,4.5,6
+57,1969,The Band (“The Brown Album”),The Band,Album,4.35,21
+58,1971,[Led Zeppelin IV],Led Zeppelin,Album,4.75,73
+59,1972,Talking Book,Stevie Wonder,Album,4.8,21
+60,1968,Astral Weeks,Van Morrison,Album,4.35,15
+61,1987,Paid in Full,Eric B. & Rakim,Album,3.8,6
+62,1987,Appetite for Destruction,Guns N’ Roses,Album,4.45,63
+63,1977,Aja,Steely Dan,Album,4.15,34
+64,2000,Stankonia,OutKast,Album,3.95,18
+65,1963,"Live at the Apollo, 1962",James Brown,Album + Live,4.5,9
+66,1965,A Love Supreme,John Coltrane,Album,4.6,36
+67,1996,Reasonable Doubt,Jaÿ‐Z,Album,3.8,7
+68,1985,Hounds of Love,Kate Bush,Album,3.7,211
+69,1995,Jagged Little Pill,Alanis Morissette,Album,4.1,36
+70,1988,Straight Outta Compton,N.W.A,Album,4.2,16
+71,1977,Exodus,Bob Marley & The Wailers,Album,4.5,42
+72,1972,Harvest,Neil Young,Album,4.5,26
+73,1991,Loveless,My Bloody Valentine,Album,4.4,17
+74,2003,The College Dropout,Kanye West,Album,4.2,17
+75,1968,Lady Soul,Aretha Franklin,Album,5.0,12
+76,1972,Superfly,Curtis Mayfield,Album + Soundtrack,4.35,19
+77,1971,Who’s Next,The Who,Album,4.45,54
+78,1975,The Sun Sessions,Elvis Presley,Album + Compilation,4.0,4
+79,2016,Blonde,Frank Ocean,Album,4.65,5
+80,1977,Never Mind the Bollocks Here’s the Sex Pistols,Sex Pistols,Album,4.55,49
+81,2013,BEYONCÉ,Beyoncé,Album,4.0,27
+82,1971,There’s a Riot Goin’ On,Sly & the Family Stone,Album,3.65,19
+83,1969,Dusty in Memphis,Dusty Springfield,Album,4.0,20
+84,1980,Back in Black,AC/DC,Album,4.45,53
+85,1970,John Lennon/Plastic Ono Band,John Lennon/Plastic Ono Band,Album,4.0,21
+86,1967,The Doors,The Doors,Album,4.55,40
+87,1970,Bitches Brew,Miles Davis,Album,4.8,38
+88,1971,Hunky Dory,David Bowie,Album,4.4,34
+89,1997,Baduizm,Erykah Badu,Album,4.35,9
+90,1970,After the Gold Rush,Neil Young,Album,4.9,24
+91,1978,Darkness on the Edge of Town,Bruce Springsteen,Album,4.0,163
+92,1967,Axis: Bold as Love,The Jimi Hendrix Experience,Album,4.0,39
+93,1997,Supa Dupa Fly,Missy Misdemeanor Elliott,Album,3.4,7
+94,1970,Fun House,The Stooges,Album,4.2,17
+95,2011,Take Care,Drake,Album,4.25,6
+96,1992,Automatic for the People,R.E.M.,Album,3.85,29
+97,1986,Master of Puppets,Metallica,Album,4.7,57
+98,1998,Car Wheels on a Gravel Road,Lucinda Williams,Album,4.5,9
+99,2012,Red,Taylor Swift,Album,4.5,80
+100,1968,Music From Big Pink,The Band,Album,4.0,22
+101,1969,Led Zeppelin (I),Led Zeppelin,Album,4.55,61
+102,1977,The Clash,The Clash,Album,4.15,25
+103,1989,3 Feet High and Rising,De La Soul,Album,3.9,15
+104,1971,Sticky Fingers,The Rolling Stones,Album,4.45,42
+105,1971,At Fillmore East,The Allman Brothers Band,Album + Live,4.5,30
+106,1994,Live Through This,Hole,Album,4.5,11
+107,1977,Marquee Moon,Television,Album,4.15,18
+108,1999,"When the Pawn Hits the Conflicts He Thinks Like a King What He Knows Throws the Blows When He Goes to the Fight and He’ll Win the Whole Thing ’Fore He Enters the Ring There’s No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold Your Own Hand and Remember That Depth Is the Greatest of Heights and If You Know Where You Stand, Then You Know Where to Land and If You Fall It Won’t Matter, Cuz You’ll Know That You’re Right",Fiona Apple,Album,4.45,17
+109,1972,Transformer,Lou Reed,Album,4.1,25
+110,1974,Court and Spark,Joni Mitchell,Album,5.0,17
+111,1986,Control,Janet Jackson,Album,4.35,45
+112,1973,Goodbye Yellow Brick Road,Elton John,Album,4.0,53
+113,1986,The Queen Is Dead,The Smiths,Album,4.35,31
+114,2001,Is This It,The Strokes,Album,4.45,17
+115,2012,"good kid, m.A.A.d city",Kendrick Lamar,Album,4.35,22
+116,1989,Disintegration,The Cure,Album,4.45,25
+117,2005,Late Registration,Kanye West,Album,4.15,17
+118,1976,Hotel California,Eagles,Album,4.45,55
+119,1969,Stand!,Sly & the Family Stone,Album,4.0,12
+120,1970,Moondance,Van Morrison,Album,4.55,32
+121,1978,This Year’s Model,Elvis Costello & The Attractions,Album,4.4,21
+122,1994,The Downward Spiral,Nine Inch Nails,Album,3.2,35
+123,1969,Led Zeppelin II,Led Zeppelin,Album,4.45,58
+124,1991,Achtung Baby,U2,Album,4.3,36
+125,1989,Paul’s Boutique,Beastie Boys,Album,4.5,21
+126,1994,My Life,Mary J. Blige,Album,3.0,4
+127,1962,Modern Sounds in Country and Western Music,Ray Charles,Album,4.5,6
+128,1975,A Night at the Opera,Queen,Album,4.3,64
+129,1979,The Wall,Pink Floyd,Album,4.4,80
+130,1982,1999,Prince,Album,3.9,27
+131,1994,Dummy,Portishead,Album,4.4,18
+132,1978,40 Greatest Hits,Hank Williams,Album + Compilation,,4
+133,1976,Hejira,Joni Mitchell,Album,4.2,11
+134,1996,The Score,Fugees (Refugee Camp),Album,4.0,20
+135,1987,The Joshua Tree,U2,Album,4.3,54
+136,1971,Maggot Brain,Funkadelic,Album,3.8,9
+137,2011,21,Adele,Album,4.25,24
+138,1990,The Immaculate Collection,Madonna,Album + Compilation,4.4,14
+139,1970,Paranoid,Black Sabbath,Album,4.65,53
+140,1973,Catch a Fire,The Wailers,Album,4.6,24
+141,1989,Doolittle,Pixies,Album,4.45,25
+142,1984,Born in the U.S.A.,Bruce Springsteen,Album,4.55,163
+143,1969,The Velvet Underground,The Velvet Underground,Album,4.2,23
+144,1975,Physical Graffiti,Led Zeppelin,Album,4.15,40
+145,2000,The Marshall Mathers LP,Eminem,Album,4.0,23
+146,1978,Parallel Lines,Blondie,Album,4.25,22
+147,1994,Grace,Jeff Buckley,Album,4.25,21
+148,2012,channel ORANGE,Frank Ocean,Album,4.15,10
+149,1971,John Prine,John Prine,Album,4.0,10
+150,1982,Nebraska,Bruce Springsteen,Album,4.1,48
+151,1987,Faith,George Michael,Album,3.25,24
+152,1980,Pretenders,Pretenders,Album,4.0,23
+153,1993,Rid of Me,PJ Harvey,Album,4.65,11
+154,1972,Amazing Grace,Aretha Franklin,Album + Live,,7
+155,2003,The Black Album,Jay‐Z,Album,2.9,6
+156,1984,Let It Be,The Replacements,Album,3.8,12
+157,1995,(What’s the Story) Morning Glory?,Oasis,Album,3.9,28
+158,2000,Mama’s Gun,Erykah Badu,Album,4.0,8
+159,1983,Synchronicity,The Police,Album,4.1,38
+160,1991,Ten,Pearl Jam,Album,4.15,31
+161,1969,"Crosby, Stills & Nash","Crosby, Stills & Nash",Album,4.0,24
+162,1995,Different Class,Pulp,Album,3.8,14
+163,1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,Album + Soundtrack,4.7,28
+164,1968,At Folsom Prison,Johnny Cash,Album + Live,4.15,15
+165,1983,Murmur,R.E.M.,Album,4.2,23
+166,1978,20 Golden Greats,Buddy Holly,Album + Compilation,,6
+167,1990,Violator,Depeche Mode,Album,4.3,40
+168,1972,Can’t Buy a Thrill,Steely Dan,Album,4.0,30
+169,1977,The Stranger,Billy Joel,Album,4.3,39
+170,1967,Disraeli Gears,Cream,Album,4.9,27
+171,1988,Daydream Nation,Sonic Youth,Album,4.0,20
+172,1970,Bridge Over Troubled Water,Simon and Garfunkel,Album,4.0,39
+173,1993,In Utero,Nirvana,Album,4.15,54
+174,1972,The Harder They Come,Various Artists,Album + Soundtrack,3.0,13
+175,2017,DAMN.,Kendrick Lamar,Album,4.15,12
+176,1990,Fear of a Black Planet,Public Enemy,Album,3.75,13
+177,1971,Every Picture Tells a Story,Rod Stewart,Album,3.65,19
+178,1965,Otis Blue / Otis Redding Sings Soul,Otis Redding,Album,4.35,19
+179,1997,Life After Death,The Notorious B.I.G.,Album,4.0,10
+180,1967,Forever Changes,Love,Album,4.45,19
+181,1965,Bringing It All Back Home,Bob Dylan,Album,4.35,43
+182,1970,Sweet Baby James,James Taylor,Album,3.5,11
+183,1995,Brown Sugar,D’Angelo,Album,3.0,6
+184,1983,She’s So Unusual,Cyndi Lauper,Album,4.5,26
+185,1968,Beggars Banquet,The Rolling Stones,Album,4.55,28
+186,1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Album,4.1,25
+187,1990,AmeriKKKa’s Most Wanted,Ice Cube,Album,3.4,12
+188,1971,Electric Warrior,T. Rex,Album,3.45,30
+189,1997,Dig Me Out,Sleater‐Kinney,Album,4.55,6
+190,1969,Tommy,The Who,Album,4.4,44
+191,1960,At Last!,Etta James,Album,4.5,10
+192,1986,Licensed to Ill,Beastie Boys,Album,4.2,20
+193,1969,Willy and the Poor Boys,Creedence Clearwater Revival,Album,4.55,26
+194,1987,Bad,Michael Jackson,Album,4.2,42
+195,1967,Songs of Leonard Cohen,Leonard Cohen,Album,4.55,19
+196,2010,Body Talk,Robyn,Album,,7
+197,1964,Meet The Beatles!,The Beatles,Album,4.45,32
+198,1979,The B‐52’s,The B‐52’s,Album,4.35,20
+199,1992,Slanted and Enchanted,Pavement,Album,4.5,15
+200,1984,Diamond Life,Sade,Album,4.25,23
+201,1993,Midnight Marauders,A Tribe Called Quest,Album,4.3,13
+202,1997,Homogenic,Björk,Album,4.5,25
+203,1972,Pink Moon,Nick Drake,Album,4.25,15
+204,2007,Graduation,Kanye West,Album,3.7,16
+205,1970,Tea for the Tillerman,Cat Stevens,Album,4.35,30
+206,1977,Low,David Bowie,Album,4.4,23
+207,1972,Eagles (1st album),Eagles,Album,4.25,14
+208,2008,Tha Carter III,Lil Wayne,Album,3.0,14
+209,1986,Raising Hell,Run‐D.M.C.,Album,4.0,22
+210,1991,The Birth of Soul,Ray Charles,Album + Compilation,,1
+211,1979,Unknown Pleasures,Joy Division,Album,4.55,29
+212,1966,Wild Is the Wind,Nina Simone,Album,4.5,7
+213,2012,The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do,Fiona Apple,Album,4.0,11
+214,1994,Wildflowers,Tom Petty,Album,4.0,17
+215,1970,American Beauty,Grateful Dead,Album,3.95,38
+216,1997,Either/Or,Elliott Smith,Album,4.7,10
+217,1994,Definitely Maybe,Oasis,Album,4.5,25
+218,1994,CrazySexyCool,TLC,Album,4.65,12
+219,1995,Only Built 4 Cuban Linx…,Raekwon,Album,4.25,5
+220,1970,Déjà vu,"Crosby, Stills, Nash & Young",Album,4.35,24
+221,1992,Rage Against the Machine,Rage Against the Machine,Album,4.45,33
+222,1998,Ray of Light,Madonna,Album,4.4,21
+223,1971,Imagine,John Lennon,Album,4.1,41
+224,1999,Fly,Dixie Chicks,Album,4.65,7
+225,2002,Yankee Hotel Foxtrot,Wilco,Album,4.35,14
+226,1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Album,3.65,42
+227,1957,Here’s Little Richard,Little Richard,Album,4.25,8
+228,1991,De La Soul Is Dead,De La Soul,Album,4.0,13
+229,2000,The Ultimate Collection,Patsy Cline,Album + Compilation,,1
+230,2016,ANTI,Rihanna,Album,4.4,21
+231,1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Album,4.0,27
+232,1960,Giant Steps,John Coltrane,Album,4.45,28
+233,1992,Little Earthquakes,Tori Amos,Album,4.75,17
+234,1971,Master of Reality,Black Sabbath,Album,4.6,41
+235,1991,Metallica (“The Black Album”),Metallica,Album,4.15,47
+236,2001,Discovery,Daft Punk,Album,4.2,15
+237,1975,Red Headed Stranger,Willie Nelson,Album,4.2,10
+238,1977,Trans Europa Express,Kraftwerk,Album,4.25,28
+239,1987,Criminal Minded,Boogie Down Productions,Album,3.0,10
+240,1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Album + Live,5.0,10
+241,1991,Blue Lines,Massive Attack,Album,4.05,20
+242,1970,Loaded,The Velvet Underground,Album,4.0,18
+243,1968,Odessey and Oracle,The Zombies,Album,4.0,25
+244,2008,808s & Heartbreak,Kanye West,Album,3.5,9
+245,1990,Heaven or Las Vegas,Cocteau Twins,Album,3.7,13
+246,1990,Mama Said Knock You Out,L.L. Cool J,Album,4.5,9
+247,1992,Love Deluxe,Sade,Album,4.15,13
+248,2004,American Idiot,Green Day,Album,4.0,23
+249,1985,Whitney Houston,Whitney Houston,Album,4.4,15
+250,1979,Singles Going Steady,Buzzcocks,Album + Compilation,3.35,11
+251,1972,Honky Château,Elton John,Album,4.0,20
+252,1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Album,4.5,10
+253,1967,The Piper at the Gates of Dawn,Pink Floyd,Album,3.85,74
+254,1973,Head Hunters,Herbie Hancock,Album,4.0,27
+255,1963,The Freewheelin’ Bob Dylan,Bob Dylan,Album,4.25,28
+256,1988,Tracy Chapman,Tracy Chapman,Album,3.9,20
+257,1971,Coat of Many Colors,Dolly Parton,Album,4.5,6
+258,1975,The Hissing of Summer Lawns,Joni Mitchell,Album,4.0,13
+259,1971,Pearl,Janis Joplin,Album,4.4,30
+260,1979,Cut,The Slits,Album,4.0,9
+261,1992,Check Your Head,Beastie Boys,Album,4.45,19
+262,1983,"Power, Corruption & Lies",New Order,Album,4.45,24
+263,1964,A Hard Day’s Night,The Beatles,Album + Soundtrack,4.25,74
+264,1975,Wish You Were Here,Pink Floyd,Album,4.65,93
+265,1995,Wowee Zowee,Pavement,Album,4.15,14
+266,1965,Help!,The Beatles,Album + Soundtrack,4.1,85
+267,1984,Double Nickels on the Dime,Minutemen,Album,4.5,4
+268,1972,Sail Away,Randy Newman,Album,4.2,5
+269,2013,Yeezus,Kanye West,Album,3.8,8
+270,2018,Golden Hour,Kacey Musgraves,Album,3.4,10
+271,1992,What’s the 411?,Mary J. Blige,Album,3.5,7
+272,1967,White Light/White Heat,The Velvet Underground,Single,,1
+273,1979,Entertainment!,Gang of Four,Album,4.4,12
+274,1968,Sweetheart of the Rodeo,The Byrds,Album,4.0,17
+275,1970,Curtis,Curtis Mayfield,Album,4.65,11
+276,1995,The Bends,Radiohead,Album,4.15,31
+277,2003,The Diary of Alicia Keys,Alicia Keys,Album,4.5,12
+278,1973,Houses of the Holy,Led Zeppelin,Album,4.5,44
+279,1994,MTV Unplugged in New York,Nirvana,Album + Live,4.15,37
+280,2003,Get Rich or Die Tryin’,50 Cent,Album,3.55,15
+281,1971,Nilsson Schmilsson,Nilsson,Album,1.0,17
+282,1955,In the Wee Small Hours,Frank Sinatra,Album,5.0,16
+283,1979,Bad Girls,Donna Summer,Album,4.6,17
+284,1996,Down Every Road,Merle Haggard,Album + Compilation,,1
+285,1978,Third/Sister Lovers,Big Star,Album,,10
+286,1999,Californication,Red Hot Chili Peppers,Album,4.25,25
+287,1965,Mr. Tambourine Man,The Byrds,Album,3.8,16
+288,1976,The Modern Lovers,The Modern Lovers,Album,4.35,14
+289,1995,Post,Björk,Album,4.35,27
+290,2003,Speakerboxxx / The Love Below,OutKast,Album,3.35,11
+291,1999,The Writing’s on the Wall,Destiny’s Child,Album,4.4,13
+292,1978,Van Halen,Van Halen,Album,4.05,28
+293,1993,Last Splash,The Breeders,Album,4.15,9
+294,1994,Weezer (Blue Album),Weezer,Album,4.7,26
+295,2013,Random Access Memories,Daft Punk,Album,3.95,24
+296,1979,Rust Never Sleeps,Neil Young & Crazy Horse,Album,4.6,12
+297,1986,So,Peter Gabriel,Album,4.4,44
+298,1989,Full Moon Fever,Tom Petty,Album,4.25,19
+299,1965,Live at the Regal,B.B. King,Album + Live,4.15,16
+300,1997,Come On Over,Shania Twain,Album,4.0,21
+301,1973,New York Dolls,New York Dolls,Album,4.15,9
+302,1975,Tonight’s the Night,Neil Young,Album,4.4,8
+303,2001,The Definitive Collection,ABBA,Album + Compilation,4.0,10
+304,1971,Just As I Am,Bill Withers,Album,3.65,7
+305,1975,Alive!,KISS,Album + Live,3.55,34
+306,1972,I’m Still in Love With You,Al Green,Album,4.5,5
+307,2003,Portrait of a Legend 1951–1964,Sam Cooke,Album + Compilation,,5
+308,1973,Here Come the Warm Jets,Brian Eno,Album,4.4,16
+309,1980,Closer,Joy Division,Album,4.25,24
+310,1977,Pink Flag,Wire,Album,4.4,12
+311,1974,On the Beach,Neil Young,Album,4.0,15
+312,2016,A Seat at the Table,Solange,Album,5.0,4
+313,2000,"Stories From the City, Stories From the Sea",PJ Harvey,Album,4.15,12
+314,1996,One in a Million,Aaliyah,Album,4.25,9
+315,2018,EL MAL QUERER,ROSALÍA,Album,4.15,3
+316,1967,The Who Sell Out,The Who,Album,4.0,24
+317,1958,Lady in Satin,Billie Holiday,Album,5.0,31
+318,1997,The Velvet Rope,Janet,Album,4.0,16
+319,1989,The Stone Roses,The Stone Roses,Album,4.3,34
+320,1980,Los Angeles,X,Album,,7
+321,2019,Norman Fucking Rockwell!,Lana Del Rey,Album,4.5,39
+322,1969,From Elvis In Memphis,Elvis Presley,Album,3.6,15
+323,1980,Sandinista!,The Clash,Album,3.25,16
+324,2002,A Rush of Blood to the Head,Coldplay,Album,3.95,26
+325,1993,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,Album + Compilation,,1
+326,1980,Dirty Mind,Prince,Album,3.65,11
+327,1970,Live at Leeds,The Who,Album + Live,4.5,30
+328,2013,Modern Vampires of the City,Vampire Weekend,Album,4.35,7
+329,1996,Endtroducing.....,DJ Shadow,Album,4.65,20
+330,1966,Aftermath,The Rolling Stones,Album,4.45,40
+331,1989,Like a Prayer,Madonna,Album,4.3,21
+332,1956,Elvis Presley,Elvis Presley,Album,4.15,16
+333,1972,Still Bill,Bill Withers,Album,4.35,6
+334,1970,Abraxas,Santana,Album,4.7,30
+335,1975,The Basement Tapes,Bob Dylan & The Band,Album,4.15,11
+336,1982,Avalon,Roxy Music,Album,3.85,31
+337,1967,John Wesley Harding,Bob Dylan,Album,4.35,23
+338,1975,Another Green World,Eno,Album,4.15,16
+339,1989,Rhythm Nation 1814,Janet Jackson,Album,4.5,25
+340,1993,Doggystyle,Snoop Doggy Dogg,Album,3.8,23
+341,1993,Siamese Dream,Smashing Pumpkins,Album,4.15,26
+342,1970,Let It Be,The Beatles,Album,4.0,52
+343,1970,Greatest Hits,Sly & the Family Stone,Album + Compilation,4.0,7
+344,1973,Funky Kingston,Toots & The Maytals,Album,,8
+345,1973,"The Wild, the Innocent & The E Street Shuffle",Bruce Springsteen,Album,4.2,70
+346,2013,AM,Arctic Monkeys,Album,4.25,17
+347,1995,Liquid Swords,Genius/GZA,Album,4.0,6
+348,2001,Time (The Revelator),Gillian Welch,Album,,4
+349,1969,Kick Out the Jams,MC5,Album + Live,3.0,14
+350,1972,Music of My Mind,Stevie Wonder,Album,4.55,12
+351,1973,For Your Pleasure,Roxy Music,Album,4.0,13
+352,1999,The Slim Shady LP,Eminem,Album,3.9,16
+353,1978,The Cars,The Cars,Album,4.4,21
+354,1978,Germfree Adolescents,X‐Ray Spex,Album,4.0,9
+355,1970,Black Sabbath,Black Sabbath,Album,4.55,41
+356,1968,Gris-Gris,"Dr. John, the Night Tripper",Album,3.0,7
+357,1985,Rain Dogs,Tom Waits,Album,4.1,17
+358,1990,Goo,Sonic Youth,Album,3.65,20
+359,1974,Radio City,Big Star,Album,5.0,7
+360,1978,One Nation Under a Groove,Funkadelic,Album,4.5,9
+361,2006,The Black Parade,My Chemical Romance,Album,4.25,18
+362,1981,Never Too Much,Luther Vandross,Single,5.0,5
+363,1975,Mothership Connection,Parliament,Album,4.25,3
+364,1978,More Songs About Buildings and Food,Talking Heads,Album,4.15,16
+365,2004,Madvillainy,Madvillain,Album,4.3,15
+366,1976,Rocks,Aerosmith,Album,3.9,21
+367,2015,If You’re Reading This It’s Too Late,Drake,Album + Mixtape/Street,3.25,7
+368,1970,All Things Must Pass,George Harrison,Album,4.75,22
+369,1995,The Infamous,Mobb Deep,Album,4.5,8
+370,2005,Tha Carter II,Lil Wayne,Album,4.0,7
+371,1973,Anthology,The Temptations,Album + Compilation,,1
+372,1968,Cheap Thrills,Big Brother & the Holding Company,Album,4.5,17
+373,1969,Hot Buttered Soul,Isaac Hayes,Album,5.0,12
+374,1961,King of the Delta Blues Singers,Robert Johnson,Album + Compilation,,11
+375,1994,Dookie,Green Day,Album,3.9,25
+376,1998,In the Aeroplane Over the Sea,Neutral Milk Hotel,Album,4.6,10
+377,2003,Fever to Tell,Yeah Yeah Yeahs,Album,4.5,9
+378,1984,Run‐D.M.C.,Run‐D.M.C.,Album,3.25,16
+379,1981,Moving Pictures,Rush,Album,4.4,44
+380,1959,Mingus Ah Um,Charles Mingus,Album,4.4,22
+381,1973,(pronounced ’lĕh-’nérd ’skin-’nérd),Lynyrd Skynyrd,Album,4.65,16
+382,2015,Currents,Tame Impala,Album,3.9,12
+383,1998,Mezzanine,Massive Attack,Album,4.4,21
+384,1968,The Kinks Are the Village Green Preservation Society,The Kinks,Album,4.3,23
+385,1977,Rocket to Russia,Ramones,Album,4.15,14
+386,2006,Donuts,J Dilla,Album,4.75,9
+387,2007,In Rainbows,Radiohead,Album,4.35,17
+388,1972,"Young, Gifted and Black",Aretha Franklin,Album,4.0,7
+389,2005,The Emancipation of Mimi,Mariah Carey,Album,4.35,17
+390,1988,Surfer Rosa,Pixies,Album,4.0,11
+391,1999,Kaleidoscope,Kelis,Album,3.35,6
+392,1991,Proud Mary: The Best of Ike and Tina Turner,Ike & Tina Turner,Album + Compilation,3.0,2
+393,2014,1989,Taylor Swift,Album,4.25,76
+394,1980,Diana,Diana Ross,Album,4.25,14
+395,2014,Black Messiah,D’Angelo and The Vanguard,Album,4.0,6
+396,1972,Something/Anything?,Todd Rundgren,Album,3.5,12
+397,2019,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,Album,4.45,54
+398,1979,The Raincoats,The Raincoats,Album,4.0,9
+399,2004,SMiLE,Brian Wilson,Album,4.4,8
+400,1981,Beauty and the Beat,The Go‐Go’s,Album,3.0,12
+401,1976,Blondie,Blondie,Album,4.8,13
+402,1975,Expensive Shit,Fela Ransome Kuti & Africa 70,Album,3.75,5
+403,2000,Supreme Clientele,Ghostface Killah,Album,5.0,5
+404,1986,Rapture,Anita Baker,Album,4.0,8
+405,1972,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965–1968",Various Artists,Album + Compilation,3.0,5
+406,1999,69 Love Songs,The Magnetic Fields,Album,4.15,8
+407,1969,Everybody Knows This Is Nowhere,Neil Young with Crazy Horse,Album,4.5,19
+408,1980,Ace of Spades,Motörhead,Album,3.65,28
+409,1970,Workingman’s Dead,Grateful Dead,Album,4.5,72
+410,1967,Wild Honey,The Beach Boys,Album,4.0,4
+411,2001,“Love and Theft”,Bob Dylan,Album,3.85,18
+412,1965,Going to a Go‐Go,Smokey Robinson and The Miracles,Album,,6
+413,1970,Cosmo’s Factory,Creedence Clearwater Revival,Album,4.45,28
+414,1979,Risqué,Chic,Album,3.5,8
+415,1970,Look‐Ka Py Py,The Meters,Album,3.5,5
+416,1999,Things Fall Apart,The Roots,Album,3.7,8
+417,1959,The Shape of Jazz to Come,Ornette Coleman,Album,4.2,18
+418,1985,Brothers in Arms,Dire Straits,Album,4.6,59
+419,2011,Chief,Eric Church,Album,4.0,5
+420,1975,That’s the Way of the World,"Earth, Wind & Fire",Album + Soundtrack,3.0,15
+421,2005,Arular,M.I.A.,Album,4.2,9
+422,1973,Let’s Get It On,Marvin Gaye,Album,4.25,19
+423,1997,I Can Hear the Heart Beating as One,Yo La Tengo,Album,4.5,7
+424,1996,Odelay,Beck,Album,4.05,30
+425,1972,Paul Simon,Paul Simon,Album,5.0,14
+426,1988,Lucinda Williams,Lucinda Williams,Album,4.65,10
+427,1973,Call Me,Al Green,Album,4.35,10
+428,1985,New Day Rising,Hüsker Dü,Album,4.0,5
+429,1967,Reach Out,Four Tops,Album,,7
+430,1977,My Aim Is True,Elvis Costello,Album,3.4,20
+431,1984,How Will the Wolf Survive?,Los Lobos,Album,3.0,6
+432,2004,Confessions,Usher,Album,1.0,8
+433,2007,Sound of Silver,LCD Soundsystem,Album,4.0,8
+434,1994,"Crooked Rain, Crooked Rain",Pavement,Album,4.3,16
+435,1987,Actually,Pet Shop Boys,Album,4.2,20
+436,1996,All Eyez on Me,2Pac,Album,4.6,14
+437,1991,Screamadelica,Primal Scream,Album,3.0,16
+438,1994,Parklife,Blur,Album,3.85,20
+439,1970,Sex Machine,James Brown,Album + Live,4.35,7
+440,1970,Coal Miner’s Daughter,Loretta Lynn,Album,,9
+441,2007,Blackout,Britney Spears,Album,3.9,46
+442,2015,Beauty Behind the Madness,The Weeknd,Album,4.5,12
+443,1980,Scary Monsters… and Super Creeps,David Bowie,Album,3.85,21
+444,2005,Extraordinary Machine,Fiona Apple,Album,4.4,12
+445,1972,Close to the Edge,Yes,Album,4.55,40
+446,1971,Journey in Satchidananda,Alice Coltrane featuring Pharoah Sanders,Album,4.15,7
+447,2018,X 100PRE,Bad Bunny,Album,3.0,2
+448,1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Album,,10
+449,2003,Elephant,The White Stripes,Album,4.0,18
+450,1971,Ram,Paul & Linda McCartney,Album,4.65,21
+451,1969,First Take,Roberta Flack,Album,,10
+452,1974,Anthology,Diana Ross & The Supremes,Album + Compilation,,2
+453,1989,Pretty Hate Machine,Nine Inch Nails,Album,2.6,28
+454,1972,Ege Bamyası,Can,Album,4.25,17
+455,1986,Bo Diddley / Go Bo Diddley,Bo Diddley,Album + Compilation,5.0,3
+456,1975,Greatest Hits,Al Green,Album + Compilation,,14
+457,1990,I Do Not Want What I Haven’t Got,Sinéad O’Connor,Album,4.55,16
+458,2013,Southeastern,Jason Isbell,Album,4.65,4
+459,2009,Man on the Moon: The End of Day,Kid Cudi,Album,4.4,14
+460,2017,Melodrama,Lorde,Album,4.35,10
+461,2008,For Emma,Bon Iver,Single,,3
+462,1969,The Gilded Palace of Sin,The Flying Burrito Bros.,Album,3.0,6
+463,1968,Eli and the Thirteenth Confession,Laura Nyro,Album,,10
+464,1973,3+3,The Isley Brothers,Album,3.5,8
+465,2003,The Best of the Classic Years,King Sunny Adé,Album + Compilation,,2
+466,1965,The Beach Boys Today!,The Beach Boys,Album,4.0,10
+467,2009,BLACKsummers’night,Maxwell,Album,4.0,1
+468,1978,Some Girls,The Rolling Stones,Album,3.6,33
+469,1998,Clandestino,Manu Chao,Album,3.85,13
+470,1998,400 Degreez,Juvenile,Album,3.0,2
+471,1967,Surrealistic Pillow,Jefferson Airplane,Album,4.15,26
+472,2017,Ctrl,SZA,Album,,7
+473,2004,Barrio fino,Daddy Yankee,Album,3.5,5
+474,1972,#1 Record,Big Star,Album,1.5,9
+475,1996,Sheryl Crow,Sheryl Crow,Album,4.25,17
+476,1974,Kimono My House,Sparks,Album,4.4,8
+477,1959,Moanin’ in the Moonlight,Howlin’ Wolf,Album,4.0,8
+478,1967,Something Else by The Kinks,The Kinks,Album,3.75,18
+479,1994,Amor prohibido,Selena,Album,4.65,3
+480,2016,The Weight of These Wings,Miranda Lambert,Album,2.0,3
+481,1996,If You’re Feeling Sinister,Belle and Sebastian,Album,4.15,10
+482,1992,Bizarre Ride II the Pharcyde,The Pharcyde,Album,4.5,10
+483,2001,The Anthology,Muddy Waters,Album + Compilation,2.0,1
+484,2011,Born This Way,Lady Gaga,Album,4.05,29
+485,1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Album,4.25,7
+486,2006,Continuum,John Mayer,Album,3.85,17
+487,1981,Damaged,Black Flag,Album,3.75,6
+488,1969,The Stooges,The Stooges,Album,4.4,19
+489,1991,Back to Mono (1958–1969),Various Artists,Album + Compilation,,3
+490,1974,Heart Like a Wheel,Linda Ronstadt,Album,4.0,12
+491,2019,Fine Line,Harry Styles,Album,4.0,8
+492,1989,Nick of Time,Bonnie Raitt,Album,4.0,11
+493,1978,"Here, My Dear",Marvin Gaye,Album,3.65,8
+494,1964,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,Album,3.35,10
+495,1994,II,Boyz II Men,Album,3.35,10
+496,1998,¿Dónde están los ladrones?,Shakira,Album,4.6,5
+497,1985,The Indestructible Beat of Soweto,Various Artists,Album + Compilation,,3
+498,1977,Suicide,Suicide,Album,3.5,11
+499,1977,Ask Rufus,Rufus & Chaka Khan,Album,,3
+500,2004,Funeral,Arcade Fire,Album,4.45,14
